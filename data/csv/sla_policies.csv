@@ -1,0 +1,5 @@
+﻿priority,sla_target_hours,business_hours_only
+低,48,TRUE
+中,24,TRUE
+高,12,FALSE
+緊急,6,FALSE
